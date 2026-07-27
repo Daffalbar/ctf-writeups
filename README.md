@@ -31,7 +31,7 @@ A collection of my CTF (Capture The Flag) challenge writeups. Each writeup docum
 
 ## 📈 Progress
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Daffalbar.png)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/dafpriasigma.png)
 
 ---
 
