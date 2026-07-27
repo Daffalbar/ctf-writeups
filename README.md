@@ -11,6 +11,11 @@ A collection of my CTF (Capture The Flag) challenge writeups. Each writeup docum
 
 ---
 
+## 📈 Profile
+🔗 [TryHackMe Profile](https://tryhackme.com/p/dafpriasigma)
+
+---
+
 ## 📂 Writeups
 
 | # | Challenge | Category | Difficulty | Platform | Flag |
@@ -26,12 +31,6 @@ A collection of my CTF (Capture The Flag) challenge writeups. Each writeup docum
 - **Web:** Gobuster, Burp Suite
 - **Password:** John the Ripper, Hashcat
 - **General:** Python, Bash, Linux
-
----
-
-## 📈 Progress
-
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/dafpriasigma.png)
 
 ---
 
