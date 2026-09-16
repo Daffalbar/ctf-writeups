@@ -1,6 +1,6 @@
 # CTF Writeups
 
-A collection of my CTF (Capture The Flag) challenge writeups. Each writeup documents my thought process, methodology, and solution.
+A collection of my CTF (Capture The Flag) challenge writeups. As evidence of my journey in a cybersecurity career.
 
 ---
 
@@ -11,9 +11,9 @@ A collection of my CTF (Capture The Flag) challenge writeups. Each writeup docum
 
 ## Writeups
 
-| # | Challenge | Category | Platform | Flag |
-|---|-----------|----------|----------|------|
-| 1 | [Cryptosystem](./cryptosystem-ctf/README.md) | Cryptography | TryHackMe | ✅ |
+| # | Challenge | Category | Platform |
+|---|-----------|----------|----------|
+| 1 | [Cryptosystem](./cryptosystem-ctf/README.md) | Cryptography | TryHackMe |
 
 ---
 
