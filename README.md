@@ -1,30 +1,23 @@
-# 🚩 CTF Writeups — Daffalbar
+# CTF Writeups
 
 A collection of my CTF (Capture The Flag) challenge writeups. Each writeup documents my thought process, methodology, and solution.
 
-## 👤 About Me
-
-- 🎓 Informatics Student at Telkom University Surabaya
-- 💼 WordPress Developer & SEO Specialist at IGB Media
-- 🎯 Aspiring DevSecOps / AI Security Engineer
-- 🔗 [GitHub](https://github.com/Daffalbar)
-
 ---
 
-## 📈 Profile
+## Tryhackme Profile
 🔗 [TryHackMe Profile](https://tryhackme.com/p/dafpriasigma)
 
 ---
 
-## 📂 Writeups
+## Writeups
 
-| # | Challenge | Category | Difficulty | Platform | Flag |
-|---|-----------|----------|------------|----------|------|
-| 1 | [Cryptosystem](./cryptosystem-ctf/README.md) | Cryptography | Easy | TryHackMe | ✅ |
+| # | Challenge | Category | Platform | Flag |
+|---|-----------|----------|----------|------|
+| 1 | [Cryptosystem](./cryptosystem-ctf/README.md) | Cryptography | TryHackMe | ✅ |
 
 ---
 
-## 🛠️ Tools I Use
+## Tools I Use
 
 - **Crypto:** pycryptodome, RsaCtfTool, CyberChef
 - **Network:** Nmap, Wireshark, tcpdump
